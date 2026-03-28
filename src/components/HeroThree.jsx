@@ -7,7 +7,7 @@ const HeroThree = () => {
 
       <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center gap-16">
 
-        {/* LEFT SIDE */}
+        {/* LEFT SIDE */}GitHub
         <div className="flex-1 z-10">
 
           
